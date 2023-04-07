@@ -6,3 +6,6 @@ Prepare 4 VC built by serial entrepreneurs, investors and venture capital expert
 1.Visualization of categories to showcase potential members the makeup of current members of the community.
 
 2.Analyze where the members are coming from , visualization using a map, heatmap, etc. of where the membership is.
+
+## Tableau Dashboard Link:
+https://public.tableau.com/app/profile/james.amezcua/viz/Prepare4VC/Story1
