@@ -7,5 +7,8 @@ Prepare 4 VC built by serial entrepreneurs, investors and venture capital expert
 
 2.Analyze where the members are coming from , visualization using a map, heatmap, etc. of where the membership is.
 
+3.Find out the what similarities or differences exist in the type of startup companies that end up getting funding using Crunchbase data.
+
+
 ## Tableau Dashboard Link:
 https://public.tableau.com/app/profile/james.amezcua/viz/Prepare4VC/Story1
