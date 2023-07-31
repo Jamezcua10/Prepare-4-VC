@@ -12,3 +12,4 @@ Prepare 4 VC built by serial entrepreneurs, investors and venture capital expert
 
 ## Tableau Dashboard Link:
 https://public.tableau.com/app/profile/james.amezcua/viz/Prepare4VC/Story1
+https://public.tableau.com/views/InvestorsPortfolios/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
