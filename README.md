@@ -10,6 +10,6 @@ Prepare 4 VC built by serial entrepreneurs, investors and venture capital expert
 3.Find out the what similarities or differences exist in the type of startup companies that end up getting funding using Crunchbase data.
 
 
-## Tableau Dashboard Link:
+## Tableau Dashboard Links:
 https://public.tableau.com/app/profile/james.amezcua/viz/Prepare4VC/Story1
 https://public.tableau.com/views/InvestorsPortfolios/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
